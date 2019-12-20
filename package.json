@@ -1,0 +1,23 @@
+{
+  "name": "modulepractice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndrewSimons3/ModulePractice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndrewSimons3/ModulePractice/issues"
+  },
+  "homepage": "https://github.com/AndrewSimons3/ModulePractice#readme"
+}
